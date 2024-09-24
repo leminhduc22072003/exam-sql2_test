@@ -12,3 +12,4 @@ INSERT INTO product(name) VALUES
 
 SELECT * FROM product;
 SELECT * FROM product;
+//adasc
